@@ -1,1 +1,42 @@
 /* write your override styles here */
+#wall .tag-1{
+    display: none;
+}
+
+body div#wall #tag-2 {
+    display: none;
+}
+
+
+
+/* Element | file://///wsl.localhost/Ubuntu/home/mutiso/phase-0-css-graffiti-lab/index.html */
+
+#tag-3 {
+    display: none;
+  }
+  
+  /* Element | file://///wsl.localhost/Ubuntu/home/mutiso/phase-0-css-graffiti-lab/index.html */
+  
+  div.parent:nth-child(4) {
+    display: none;
+  }
+  
+  /* Element | file://///wsl.localhost/Ubuntu/home/mutiso/phase-0-css-graffiti-lab/index.html */
+  
+  div.parent:nth-child(5) {
+    display: none;
+  }
+  
+  /* Element | file://///wsl.localhost/Ubuntu/home/mutiso/phase-0-css-graffiti-lab/index.html */
+  
+  div.parent:nth-child(6) {
+    display: none;
+  }
+  
+  /* Element | file://///wsl.localhost/Ubuntu/home/mutiso/phase-0-css-graffiti-lab/index.html */
+  
+  div.parent:nth-child(7) {
+    display: none;
+  }
+  
+
